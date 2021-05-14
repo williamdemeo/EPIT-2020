@@ -32,7 +32,7 @@ open import Cubical.Core.Primitives public
 --
 -- open import Cubical.Foundations.Everything
 
--- To search for something among the imported files press C-s C-z and
+-- To search for something among the imported files press C-c C-z and
 -- then write what you want to search for.
 
 -- Documentation of the Cubical Agda mode can be found at:
