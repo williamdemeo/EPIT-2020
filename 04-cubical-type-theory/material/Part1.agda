@@ -255,7 +255,7 @@ sym p i = p (~ i)
 --            refl
 --
 -- Being able to make this square directly is very useful. It for
--- example let's prove that singletons are contractible (aka based
+-- example lets us prove that singletons are contractible (aka based
 -- path induction).
 --
 -- We first need the notion of contractible types. For this we need
